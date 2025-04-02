@@ -1,4 +1,5 @@
 # Global-YouTube-Statistics-2023---Tableau-Dashboard
+Preview Dashboard-https://public.tableau.com/app/profile/nisha.malviya/viz/Youtubeanalysis_17436155080280/Dashboard1?publish=yes
 Problem Statement:
 
 With the rapid growth of YouTube as a dominant video-sharing platform, understanding key trends and statistics is essential for content creators, marketers, and analysts. However, raw data alone is not enough—insightful visualizations and analysis are needed to extract meaningful patterns from vast amounts of video performance data. This project aims to bridge that gap by providing an interactive Tableau dashboard that presents a comprehensive analysis of global YouTube statistics in 2023.
